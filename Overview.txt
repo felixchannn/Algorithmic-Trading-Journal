@@ -1,0 +1,1 @@
+This page serves as a brief overview of the journal structure.
